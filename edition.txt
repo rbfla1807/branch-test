@@ -3,3 +3,5 @@ second edition
 third edition
 issue resolved
 hotfix team's solution
+conflict finally resolved!
+
