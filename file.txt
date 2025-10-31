@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 first
 second
 third
 issue resolved
+=======
+new feature
+>>>>>>> testing
+hotfix
